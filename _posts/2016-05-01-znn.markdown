@@ -1,0 +1,16 @@
+---
+title: ZNN
+subtitle: Group Project
+layout: default
+modal-id: 3
+date: 2016-05-01
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: May 2016
+heroku: https://znn.herokuapp.com
+github: https://github.com/BellaT/wdi-project-3
+category: Web Development
+description: If and when the zombie apocalypse happens, ZNN! is the first place you should visit. It contains all the information about places of interest (i.e. Hospitals, supermarkets etc), tips for survival, and goods to buy. You can search anywhere on the map, and using the key provided you can find any local useful locations that are paramount for your survival.
+
+---
