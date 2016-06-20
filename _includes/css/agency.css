@@ -21,6 +21,10 @@ body {
   line-height: 1.5;
 }
 
+.links-fa {
+  color: #{{ site.data.template.color.secondary-dark }};
+}
+
 .text-muted {
   color: #{{ site.data.template.color.muted }};
 }
