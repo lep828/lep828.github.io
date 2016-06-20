@@ -11,6 +11,6 @@ project-date: March 2016
 github: https://github.com/lep828/meme-runner
 heroku: https://memerunner.herokuapp.com
 category: Web Development
-description: For my first project I drew inspiration from a personal favourite of mine - Flappy Bird. Made in JavaScript using the jQuery library, this is my take on it.
+description: After two weeks of learning code I made Meme Runner using JavaScript and jQuery. Drawing inspiration from a personal favourite of mine - Flappy Bird.
 
 ---

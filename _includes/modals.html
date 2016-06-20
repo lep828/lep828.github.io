@@ -19,12 +19,16 @@
             <ul class="list-inline item-details">
               {% if post.github %}
               <li>
-                <strong><a href={{ post.github }}>Github</a></strong>
+                <strong><a href={{ post.github }}>
+                  <i class="fa fa-code fa-2x"></i> View the Code
+                </a></strong>
               </li>
               {% endif %}
               {% if post.heroku %}
               <li>
-                <strong><a href={{ post.heroku }}>Heroku</a></strong>
+                <strong><a href={{ post.heroku }}>
+                  <i class="fa fa-desktop fa-2x"></i> View the App
+                </a></strong>
               </li>
               {% endif %}
             </ul>
