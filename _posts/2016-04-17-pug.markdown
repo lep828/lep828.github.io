@@ -4,8 +4,8 @@ subtitle: Ruby Web Application
 layout: default
 modal-id: 2
 date: 2016-04-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: pug.png
+thumbnail: pug.png
 alt: image-alt
 project-date: April 2016
 heroku: https://pug.herokuapp.com

@@ -4,8 +4,8 @@ subtitle: Group Project
 layout: default
 modal-id: 3
 date: 2016-05-01
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: znn.png
+thumbnail: znn.png
 alt: image-alt
 project-date: May 2016
 heroku: https://znn.herokuapp.com

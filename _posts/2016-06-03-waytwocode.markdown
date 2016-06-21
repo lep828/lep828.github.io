@@ -4,8 +4,8 @@ subtitle: Pair Programming Online
 layout: default
 modal-id: 5
 date: 2016-06-03
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: waytwocode.png
+thumbnail: waytwocode.png
 alt: image-alt
 project-date: June 2016
 github: https://github.com/lep828/waytwocode

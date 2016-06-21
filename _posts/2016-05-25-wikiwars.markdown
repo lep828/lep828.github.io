@@ -4,8 +4,8 @@ subtitle: Product of a 23 hour, 1 second hackathon
 layout: default
 modal-id: 4
 date: 2016-05-25
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: wikiwars.png
+thumbnail: wikiwars.png
 alt: image-alt
 project-date: May 2016
 github: https://github.com/weiliangc3/wikiwars
