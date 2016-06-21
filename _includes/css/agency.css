@@ -10,6 +10,17 @@ body {
   color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.intro-heading {
+  margin: 0;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+  font-size: 4.5em;
+}
+
+.intro-lead-in {
+  margin-top: 50px;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
 #linkedin:hover{
   color: #f5f5f5;
 }
@@ -566,6 +577,10 @@ section h3.section-subheading {
 }
 
 @media(min-width:768px) {
+  #intro{
+    height: 100vh;
+  }
+
   .timeline:before {
     left: 50%;
   }
