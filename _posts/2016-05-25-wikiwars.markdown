@@ -1,6 +1,6 @@
 ---
 title: Wiki Wars
-subtitle: Product of a 23 hour, 1 second hackathon
+subtitle: The Wikipedia Game
 layout: default
 modal-id: 4
 date: 2016-05-25
@@ -10,7 +10,7 @@ alt: image-alt
 project-date: May 2016
 github: https://github.com/weiliangc3/wikiwars
 category: Web Development
-description: Improvise your way to victory in this thrilling take on the Wikipedia Game. Brought to you by the PWR team, we present to you the ultimate in knowledge games. It's Trivial Pursuit meets F1. It's Whose Line Is It Anyway meets Nascar. It's Countdown meets the Grand National. Jeopardy! meets Le Mans. Pub Quiz meets Top Gear.
+description: Product of a 23 hour and 1 second hackathon. Brought to you by the PWR team, we present to you the ultimate in knowledge games. It's Trivial Pursuit meets F1. It's Whose Line Is It Anyway meets Nascar. It's Countdown meets the Grand National. Jeopardy! meets Le Mans. Pub Quiz meets Top Gear.
 
 
 ---

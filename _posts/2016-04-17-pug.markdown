@@ -1,6 +1,6 @@
 ---
 title: P.U.G
-subtitle: Ruby Web Application
+subtitle: Uniting gamers
 layout: default
 modal-id: 2
 date: 2016-04-17

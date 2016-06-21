@@ -1,6 +1,6 @@
 ---
 title: Meme Runner
-subtitle: JavaScript Game
+subtitle: My adaptation of Flappy Bird
 layout: default
 modal-id: 1
 date: 2016-03-20
