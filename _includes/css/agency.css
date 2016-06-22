@@ -395,7 +395,7 @@ section h3.section-subheading {
   position: relative;
   margin: 0 auto;
   max-width: 400px;
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 3px 3px 8px #888888;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
@@ -461,6 +461,9 @@ section h3.section-subheading {
 @media(min-width:767px) {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
+  }
+  #portfolio .portfolio-item .portfolio-link{
+    box-shadow: 8px 8px 8px #888888;
   }
 }
 
