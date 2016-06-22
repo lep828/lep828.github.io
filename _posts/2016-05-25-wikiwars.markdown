@@ -12,6 +12,6 @@ github: https://github.com/weiliangc3/wikiwars
 heroku: https://pwrwikiwars.com
 category: Web Development
 description: Product of a 23 hour and 1 second hackathon. Brought to you by the PWR team, we present to you the ultimate in knowledge games. It's Trivial Pursuit meets F1. It's Whose Line Is It Anyway meets Nascar. It's Countdown meets the Grand National. Jeopardy! meets Le Mans. Pub Quiz meets Top Gear.
-
+description2: The aim of the game is to get from one random article to another in the least amount of clicks.
 
 ---
