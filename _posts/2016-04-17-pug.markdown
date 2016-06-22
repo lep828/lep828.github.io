@@ -12,5 +12,5 @@ heroku: https://pug.herokuapp.com
 github: https://github.com/lep828/pug
 category: Web Development
 description: P.U.G is a website where gamers can go to and find users who play the same games and form groups to play together. We all know its more fun to play with other people, so I made a web application that tried to make the matchmaking process a bit easier.
-
+description2: If I had more time I would probably change the colour scheme of the whole website and add a console section to see groups who play the same console as you.
 ---
